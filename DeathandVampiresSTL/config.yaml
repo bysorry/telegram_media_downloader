@@ -1,0 +1,11 @@
+api_hash: 9d095254b36eb8421c3d835ee3fe971c
+api_id: 7106152
+chat_id: DeathandVampiresSTL
+file_formats:
+  document:
+  - all
+ids_to_retry: []
+last_read_message_id: 0
+media_types:
+- document
+- links
